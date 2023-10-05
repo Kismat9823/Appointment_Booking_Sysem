@@ -1,5 +1,5 @@
 <!DOCTYPE html>
- <?php #include("func.php");?>
+ <?php #include("function.php");?>
 <html>
 <head>
 	<title>Patient Details</title>
